@@ -1,1 +1,3 @@
 # MyFavMoviesApp
+
+<img src="https://user-images.githubusercontent.com/108584428/199687008-a76feae8-45cd-4f70-8260-8a9d4fd577e8.png" height="600" width="300" > <img src="https://user-images.githubusercontent.com/108584428/199687026-929b49c3-0274-4114-b74d-c3fd3f1fa3ae.png" height="600" width="300" > <img src="https://user-images.githubusercontent.com/108584428/199687038-9d36c84e-88e8-4832-aa26-9764c42601ea.png" height="600" width="300" > <img src="https://user-images.githubusercontent.com/108584428/199687054-15b33194-ccc2-4bd5-a86e-3a2b773ecd3c.png" height="600" width="300" > <img src="https://user-images.githubusercontent.com/108584428/199687084-a630feb9-e679-442a-94d1-e40359af8314.png" height="400" > 
